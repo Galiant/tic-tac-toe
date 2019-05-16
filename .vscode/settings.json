@@ -1,0 +1,7 @@
+{
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
+  "prettier.arrowParens": "always",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true
+}
