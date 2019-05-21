@@ -1,6 +1,6 @@
-# ToDo App
+# TicTacToe App
 
-Simple ToDo React App
+Simple TicTacToe React App
 
 ## Technologies
 
@@ -14,13 +14,13 @@ Simple ToDo React App
 1.  Clone repository to local machine using:
 
 ```
-git clone https://github.com/Galiant/to-do-react-app.git
+git clone https://github.com/Galiant/tic-tac-toe.git
 ```
 
 2.  Go into the application folder:
 
 ```
-cd to-do-react-app
+cd tic-tac-toe
 ```
 
 3.  Install dependencies using`npm` command line tool:
